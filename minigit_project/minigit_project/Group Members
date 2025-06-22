@@ -1,0 +1,7 @@
+Name List                     ID
+1.Kena Biratu                 ATE/1342/12
+2.Lina Abdulfetha             ATE/7007/12
+3.Winta Ataklti               ATE/3676/12
+4.Zufan Elias                 ATE/0073/12
+5.Yared Assefa                ATE/4024/12
+6.Eyuel Mekonnen              ATE/9108/13
